@@ -1,2 +1,0 @@
-# RecipeSearch
-Created with CodeSandbox
